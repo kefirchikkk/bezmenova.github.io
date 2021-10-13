@@ -2,8 +2,9 @@
 ## Студент группы ИДБ-18-05 Безменова А. А.
 ## Лабораторная 1
 
-Предложение: 
+Предложение: Создание мема
 
+![none](https://github.com/kefirchikkk/bezmenova.github.io/blob/main/lab1/01_A0.jpg)
 
 Предложение: 
 
