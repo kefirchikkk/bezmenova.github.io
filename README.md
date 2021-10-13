@@ -6,7 +6,7 @@
 
 ![none](https://github.com/kefirchikkk/bezmenova.github.io/blob/main/lab1/laba11.png)
 
-Предложение: Студент создает мем из фото с помощью фотошопа и телефона на заказ
+Предложение: Студент создает мем из фото с помощью фотошопа на заказ
 
 ![none](https://github.com/kefirchikkk/bezmenova.github.io/blob/main/lab1/laba1.png)
 
