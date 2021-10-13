@@ -29,7 +29,7 @@
 
 А3: Модератор паблика, просматривая созданный мем студентом, использует требования при проверки на актуальность и оригинальность мема с помощью аналитики Popsters для дальнейшего выставления актуального и оргинального мема в паблике ВК.
 
-![none](https://github.com/kefirchikkk/bezmenova.github.io/blob/main/lab1/laba22.png)
+![none](https://github.com/kefirchikkk/bezmenova.github.io/blob/main/lab1/laba222.png)
 
 
 ## Лабораторная 3
