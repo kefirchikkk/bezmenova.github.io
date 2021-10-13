@@ -4,7 +4,7 @@
 
 Предложение: Создание мема
 
-![none](https://github.com/kefirchikkk/bezmenova.github.io/blob/main/lab1/01_A0.jpg)
+![none](https://github.com/kefirchikkk/bezmenova.github.io/blob/main/lab1/laba11.png)
 
 Предложение: Студент создает мем из фото с помощью фотошопа и телефона на заказ
 
