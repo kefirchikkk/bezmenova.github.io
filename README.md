@@ -12,6 +12,8 @@
 
 Диаграмма прецедентов
 
+![none](https://github.com/kefirchikkk/bezmenova.github.io/blob/main/lab1/laba1111.png)
+
 ## Лабораторная 2
 ## Лабораторная 3
 ## Лабораторная 4
