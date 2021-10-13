@@ -6,8 +6,9 @@
 
 ![none](https://github.com/kefirchikkk/bezmenova.github.io/blob/main/lab1/01_A0.jpg)
 
-Предложение: 
+Предложение: Студент создает мем из фото с помощью фотошопа и телефона на заказ
 
+![none](https://github.com/kefirchikkk/bezmenova.github.io/blob/main/lab1/laba1.png)
 
 Диаграмма прецедентов
 
