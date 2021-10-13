@@ -16,7 +16,9 @@
 
 ## Лабораторная 2
 IDEF0 diagram
+
 Предложение: деятельность паблика по созданию мемов 
+
 ![none](https://github.com/kefirchikkk/bezmenova.github.io/blob/main/lab1/laba2.png)
 
 ## Лабораторная 3
