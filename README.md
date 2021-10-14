@@ -29,13 +29,17 @@
 
 А3: Модератор паблика, просматривая созданный мем студентом, использует требования при проверки на актуальность и оригинальность мема с помощью аналитики Popsters для дальнейшего выставления актуального и оргинального мема в паблике ВК.
 
-![none](https://github.com/kefirchikkk/bezmenova.github.io/blob/main/lab1/laba222.png)
+![none](https://github.com/kefirchikkk/bezmenova.github.io/blob/main/lab1/02_A0.png)
 
 ### DFD-диаграмма Оформить билет
 
-![none](https://github.com/kefirchikkk/bezmenova.github.io/blob/main/lab1/laba2222.png)
+![none](https://github.com/kefirchikkk/bezmenova.github.io/blob/main/lab1/04_A3.png)
 
 При проверке мемов на актуальность и оригинальность модератору доступен список мемов, сделанных студентами, которые находятся в отдельной БД. Он может может проверить выбранный мем, который в дальнейшем постят в паблике ВК.
+
+### Диаграмма прецедентов
+
+![none](https://github.com/kefirchikkk/bezmenova.github.io/blob/main/lab1/laba22222.png)
 
 ## Лабораторная 3
 ## Лабораторная 4
