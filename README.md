@@ -42,6 +42,20 @@
 ![none](https://github.com/kefirchikkk/bezmenova.github.io/blob/main/lab1/laba22222.png)
 
 ## Лабораторная 3
+### DFD
+
+![none](https://github.com/kefirchikkk/bezmenova.github.io/blob/main/lab1/04_A3.png)
+
+При проверке мемов на актуальность и оригинальность модератору доступен список мемов, сделанных студентами, которые находятся в отдельной БД. Он может может проверить выбранный мем, который в дальнейшем постят в паблике ВК.
+
+### Диаграмма последовательности
+
+![none](https://github.com/kefirchikkk/bezmenova.github.io/blob/main/lab1/laba41.jpg)
+
+### ER-диаграмма (ERD)
+
+![none](https://github.com/kefirchikkk/bezmenova.github.io/blob/main/lab1/laba42.jpg)
+
 ## Лабораторная 4
 ## Лабораторная 5
 ## Лабораторная 6
